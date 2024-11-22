@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m an Astronomy student
+- 🔭 Astronomy Student
 - 🐍 Programming in Python
 
 
